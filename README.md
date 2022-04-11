@@ -1,5 +1,8 @@
 ## Description
-Plugin for unreal engine 4 to get 'unique id' and 'nickname' of the user from the user's google play account. Also gives access to the auth token. Accessible in blueprints as well as c++. 
+Plugin for unreal engine 4 to get 'unique id' and 'nickname' of the user from the user's google play account. Also gives access to the auth token. Accessible in blueprints as well as c++.
+You can use the unique id to store user's data on your server database/firebase.
+
+Note: Only works when the user has signed in through google play (which is usually automatic if the user has not disabled it).
 
 ## Install Plugin
 
