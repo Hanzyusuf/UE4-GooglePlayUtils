@@ -17,15 +17,15 @@ class GOOGLEPLAYUTILS_API UMain : public UObject
 	public:
 
 		/*Returns the user's unique id if user is signed in, else returns empty*/
-		UFUNCTION(BlueprintCallable, Category = "UserInfo")
+		UFUNCTION(BlueprintPure, Category = "UserInfo")
 			static FString GetGooglePlayUserUID(int32 PlayerControllerNum);
 
 		/*Returns the user's unique nickname if user is signed in, else returns empty*/
-		UFUNCTION(BlueprintCallable, Category = "UserInfo")
+		UFUNCTION(BlueprintPure, Category = "UserInfo")
 			static FString GetGooglePlayUserNickname(int32 PlayerControllerNum);
 
 		/*Returns google play auth token*/
-		UFUNCTION(BlueprintCallable, Category = "UserInfo")
+		UFUNCTION(BlueprintPure, Category = "UserInfo")
 			static FString GetGooglePlayAuthToken(int32 PlayerControllerNum);
 	
 };
