@@ -23,4 +23,4 @@ Make sure to enable the plugin in the plugins menu inside the engine.
 
 ## Usage
 
-![Usage Example](https://raw.githubusercontent.com/Hanzyusuf/extra_files_01/main/UE4_Plugins_GPUtils_UsageExample.png)
+![Usage Example](https://raw.githubusercontent.com/Hanzyusuf/extra_files_01/main/UE4_Plugins_GPUtils_UsageExample_v2.png)
