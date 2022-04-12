@@ -19,7 +19,7 @@ Make sure to enable the plugin in the plugins menu inside the engine.
 
 ## Enable Plugin
 
-![Enable Plugin](https://raw.githubusercontent.com/Hanzyusuf/extra_files_01/main/UE4_Plugins_GPUtils_Enable.png)
+![Enable Plugin](https://raw.githubusercontent.com/Hanzyusuf/extra_files_01/main/UE4_Plugins_GPUtils_Enable_v2.png)
 
 ## Usage
 
